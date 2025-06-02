@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![Screenshot 2025-06-02 213407](https://github.com/user-attachments/assets/397eabae-d1b9-4e40-9985-c17b63b7cdab)
 
 
-### Name:
-### Register Number:
+### Name:K.SARANYA
+### Register Number:212224040298
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
